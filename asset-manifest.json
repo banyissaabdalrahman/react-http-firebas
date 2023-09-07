@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-http-firebas/static/css/main.fa91ae3c.css",
+    "main.js": "/react-http-firebas/static/js/main.3eb0eb39.js",
+    "index.html": "/react-http-firebas/index.html",
+    "main.fa91ae3c.css.map": "/react-http-firebas/static/css/main.fa91ae3c.css.map",
+    "main.3eb0eb39.js.map": "/react-http-firebas/static/js/main.3eb0eb39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa91ae3c.css",
+    "static/js/main.3eb0eb39.js"
+  ]
+}
